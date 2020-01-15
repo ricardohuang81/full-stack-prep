@@ -1,1 +1,1 @@
-# full-stack-prep
+# Full Stack Academy Prep Exercises
